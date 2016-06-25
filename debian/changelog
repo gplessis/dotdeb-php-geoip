@@ -1,3 +1,9 @@
+php-geoip (1.1.0-4~dotdeb+8.3) stable; urgency=medium
+
+  * Rebuilt for PHP 7.0.8+
+
+ -- Guillaume Plessis <gui@dotdeb.org>  Sat, 25 Jun 2016 11:52:42 +0000
+
 php-geoip (1.1.0-4~dotdeb+8.2) stable; urgency=medium
 
   * ini file and install triggers
